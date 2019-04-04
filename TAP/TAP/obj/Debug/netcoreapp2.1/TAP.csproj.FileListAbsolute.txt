@@ -1,0 +1,11 @@
+C:\Users\Neha Pednekar\source\repos\TAP\TAP\obj\Debug\netcoreapp2.1\TAP.csprojAssemblyReference.cache
+C:\Users\Neha Pednekar\source\repos\TAP\TAP\obj\Debug\netcoreapp2.1\TAP.csproj.CoreCompileInputs.cache
+C:\Users\Neha Pednekar\source\repos\TAP\TAP\obj\Debug\netcoreapp2.1\TAP.AssemblyInfoInputs.cache
+C:\Users\Neha Pednekar\source\repos\TAP\TAP\obj\Debug\netcoreapp2.1\TAP.AssemblyInfo.cs
+C:\Users\Neha Pednekar\source\repos\TAP\TAP\bin\Debug\netcoreapp2.1\TAP.deps.json
+C:\Users\Neha Pednekar\source\repos\TAP\TAP\bin\Debug\netcoreapp2.1\TAP.runtimeconfig.json
+C:\Users\Neha Pednekar\source\repos\TAP\TAP\bin\Debug\netcoreapp2.1\TAP.runtimeconfig.dev.json
+C:\Users\Neha Pednekar\source\repos\TAP\TAP\bin\Debug\netcoreapp2.1\TAP.dll
+C:\Users\Neha Pednekar\source\repos\TAP\TAP\bin\Debug\netcoreapp2.1\TAP.pdb
+C:\Users\Neha Pednekar\source\repos\TAP\TAP\obj\Debug\netcoreapp2.1\TAP.dll
+C:\Users\Neha Pednekar\source\repos\TAP\TAP\obj\Debug\netcoreapp2.1\TAP.pdb
